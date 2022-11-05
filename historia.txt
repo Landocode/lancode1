@@ -2,3 +2,7 @@ historia .txt
 Esta es la historia de Orlando espinosa tratando de entender y de 
 estudiar programacion sin importar su edad 
 para que lo hace no se sabe por hobby puede ser 
+
+la cuestion es que empezamos a estudiar programacion a los 50 años 
+y se esta compitiendo con pelaos de 20 años muy duros para programar 
+
