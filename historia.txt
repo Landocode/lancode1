@@ -2,4 +2,7 @@ historia .txt
 esta es la histria de Orlando tratando de 
 practicar con git para poder mejorar 
 
+ahora si vamos a contar la historia de 
+Orlando espinosa tratando de convertirse en programador 
+
 
